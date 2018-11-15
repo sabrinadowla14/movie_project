@@ -1,5 +1,6 @@
 ## Programming Foundations with Python
 
+
 ### Documentation of my Project:
 
 I wrote server-side code to store a list of my favorite movies.
@@ -31,6 +32,7 @@ It generates a static web page allowing visitors to browse\
   ### Checked my code using Pep8 and also autopep8
    
    Issues:
+   
    I was not able make the poster url (.jpg ) to 79 charecter length.
    If I make it 79 charecter length I could not see the\
    output of the poster of that link.
